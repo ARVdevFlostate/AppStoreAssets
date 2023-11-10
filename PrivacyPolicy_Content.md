@@ -1,4 +1,4 @@
-**Privacy Policy**
+# Privacy Policy
 
 Amit Vidyasagar built the WhenWasIt app as an Ad Supported app. This SERVICE is provided by Amit Vidyasagar at no cost and is intended for use as is.
 
